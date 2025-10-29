@@ -16,7 +16,7 @@
 This GitHub showcases my data analysis projects and demonstrates my learning journey through various repositories. Each project reflects my growing skills in data visualization, analysis techniques, and business intelligence tools.
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kim-tam-nguyen-9ba907135/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kim-tam-nguyen-9ba907135/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thikimtamnguyen151@gmail.com)
 
 ---
