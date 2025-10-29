@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 I'm Thi Kim Tam Nguyen
 
-<!--
-**thikimtamnguyen151/thikimtamnguyen151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I'm currently working on **learning Data Analysis, with a focus on Data Visualization using Power BI**
+- 🌱 I'm currently learning **Power BI and SQL**
+- 💬 Ask me about **Data Analysis**
+- 📫 How to reach me: **thikimtamnguyen151@gmail.com**
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 About This GitHub
+This GitHub showcases my data analysis projects and demonstrates my learning journey through various repositories. Each project reflects my growing skills in data visualization, analysis techniques, and business intelligence tools.
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kim-tam-nguyen-9ba907135/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thikimtamnguyen151@gmail.com)
+
+---
+⭐️ From [thikimtamnguyen151](https://github.com/thikimtamnguyen151)
