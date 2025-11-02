@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Thi Kim Tam Nguyen
 
 ## 🚀 About Me
-- 🔭 I'm currently working on **learning Data Analysis, with a focus on Data Visualization using Power BI**
-- 🌱 I'm currently learning **Power BI and SQL**
-- 💬 Ask me about **Data Analysis**
+- 🔭 Graduated from Universitas Duisburg - Essen, in Germany
+- 🔭 Currently working on **learning Data Analysis, with a focus on Data Visualization using Power BI**
+- 🌱 On going learning **Power BI and SQL**
 - 📫 How to reach me: **thikimtamnguyen151@gmail.com**
 
 ## 🛠️ Technologies & Tools
