@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Thi Kim Tam Nguyen
 
 ## 🚀 About Me
-- 🔭 Graduated from Universitas Duisburg - Essen, in Germany
+- 🔭 Graduated from University Duisburg - Essen, in Germany
 - 🔭 Currently working on **learning Data Analysis, with a focus on Data Visualization using Power BI**
 - 🌱 On going learning **Power BI and SQL**
 - 📫 How to reach me: **thikimtamnguyen151@gmail.com**
