@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Thi Kim Tam Nguyen
+# Hi there! 👋 I'm Tam Nguyen
 
 ## 🚀 About Me
 - 🔭 Graduated from University Duisburg - Essen, in Germany
